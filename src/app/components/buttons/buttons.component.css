@@ -1,0 +1,36 @@
+.button{
+    background-color: #fff;
+    border-color: #dbdbdb;
+    border-width: 1px;
+    color: #363636;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    white-space: nowrap;
+  
+}
+
+.btn-primary{
+    background-color: #00d1b2;
+    border-color: transparent;
+    color: #fff;
+    font-size:1em;
+    border-radius: 3px;
+    padding-bottom: calc(.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(.5em - 1px);
+}
+
+.btn-danger{
+    background-color: #f14668;
+    border-color: transparent;
+    color: #fff;
+    font-size:1em;
+    border-radius: 3px;
+    padding-bottom: calc(.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(.5em - 1px);
+}
+
